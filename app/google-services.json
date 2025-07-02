@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404367902043",
+    "project_id": "youmatconnector",
+    "storage_bucket": "youmatconnector.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404367902043:android:d4903dfc9caed8a7dfc67e",
+        "android_client_info": {
+          "package_name": "com.example.useryoumat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh958akl7R18BgmV9iuWmTW6JkJAhFamc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
